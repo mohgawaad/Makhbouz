@@ -24,7 +24,7 @@ export default class Splash extends Component {
     var that = this;
     setTimeout(function () {
       that.Hide_Splash_Screen();
-    }, 100);
+    }, 5000);
   }
 
   render() {
